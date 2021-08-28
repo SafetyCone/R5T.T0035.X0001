@@ -1,12 +1,15 @@
 using System;
 
+using R5T.T0039.T002;
+
 
 namespace R5T.T0035.X0001
 {
     /// <summary>
     /// Empty interface as base for extension methods.
     /// </summary>
-    public interface IR5TDaciaNamespaceName
+    [ExtensionMethodBaseMarker]
+    public interface IR5TNamespaceName
     {
     }
 }
