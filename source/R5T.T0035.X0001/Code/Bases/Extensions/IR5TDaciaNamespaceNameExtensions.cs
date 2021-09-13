@@ -9,7 +9,7 @@ namespace System
     {
         public static string Value(this IR5TDaciaNamespaceName _)
         {
-            return R5TNamespaceNames.R5TDacia;
+            return R5TNamespaceNames.R5T_Dacia;
         }
     }
 }

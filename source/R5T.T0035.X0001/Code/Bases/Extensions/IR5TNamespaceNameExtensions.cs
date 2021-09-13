@@ -17,5 +17,10 @@ namespace System
         {
             return R5TDaciaNamespaceName.Instance;
         }
+
+        public static IR5T_T0039_NamespaceName T0039(this IR5TNamespaceName _)
+        {
+            return R5T_T0039_NamespaceName.Instance;
+        }
     }
 }
