@@ -14,5 +14,6 @@ namespace R5T.T0035.X0001
         public static string R5T_T0027_T009 => Instances.NamespaceName.AppendToken(R5T_T0027, "T009");
         public static string R5T_T0039 => Instances.NamespaceName.AppendToken(R5T, "T0039");
         public static string R5T_T0039_T002 => Instances.NamespaceName.AppendToken(R5T_T0039, "T002");
+        public static string R5T_T0040 => Instances.NamespaceName.AppendToken(R5T, "T0040");
     }
 }

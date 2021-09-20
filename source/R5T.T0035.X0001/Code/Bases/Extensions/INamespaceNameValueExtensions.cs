@@ -52,5 +52,10 @@ namespace System
         {
             return R5TNamespaceNames.R5T_T0039_T002;
         }
+
+        public static string R5T_T0040(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_T0040;
+        }
     }
 }
