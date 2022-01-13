@@ -28,6 +28,21 @@ namespace System
             return R5TNamespaceNames.R5T_Plymouth_ProgramAsAService;
         }
 
+        public static string R5T_D0088(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_D0088;
+        }
+
+        public static string R5T_D0088_I0002(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_D0088_I0002;
+        }
+
+        public static string R5T_D0090(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_D0090;
+        }
+
         public static string R5T_T0027(this INamespaceNameValue _)
         {
             return R5TNamespaceNames.R5T_T0027;
@@ -56,6 +71,21 @@ namespace System
         public static string R5T_T0040(this INamespaceNameValue _)
         {
             return R5TNamespaceNames.R5T_T0040;
+        }
+
+        public static string R5T_T0062(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_T0062;
+        }
+
+        public static string R5T_T0063(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_T0063;
+        }
+
+        public static string R5T_T0070(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_T0070;
         }
     }
 }
