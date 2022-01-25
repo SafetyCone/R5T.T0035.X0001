@@ -87,5 +87,10 @@ namespace System
         {
             return R5TNamespaceNames.R5T_T0070;
         }
+
+        public static string R5T_T0075(this INamespaceNameValue _)
+        {
+            return R5TNamespaceNames.R5T_T0075;
+        }
     }
 }
